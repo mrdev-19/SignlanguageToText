@@ -2,4 +2,4 @@ streamlit
 streamlit-option-menu
 deta
 python-dotenv
-cv2
+opencv-python
