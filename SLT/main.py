@@ -5,7 +5,7 @@ import validations as val
 import time
 import send_mail as sm
 import hasher as hs
-import cv2
+# import cv2
 #---------------------------------------------------
 # page config settings:
 
